@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.listapp.my.bidbud",
+    "sha256_cert_fingerprints":
+    ["06:86:3F:45:DD:6D:80:06:74:64:17:FD:CD:42:43:C1:49:60:7D:A7:0C:3E:0F:64:22:89:06:CD:C2:7A:AD:BA"]
+  }
+}]
